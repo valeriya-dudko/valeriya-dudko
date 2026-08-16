@@ -2,7 +2,7 @@
 📍 Minsk, Belarus
 
 Junior Unity C# developer, specializing in gaming  
-[CV Ru](https://docs.google.com/document/d/1o9UtJ-Kt4wLGltqf8NGmrRXYrYg9ePqqejJ4HulPc20/edit?usp=sharing) | CV En
+[CV Ru](https://docs.google.com/document/d/1o9UtJ-Kt4wLGltqf8NGmrRXYrYg9ePqqejJ4HulPc20/edit?usp=sharing) | [CV En](https://docs.google.com/document/d/1rn9G2SMAYW3STbkSr3yGukz7UtlrpDT1QDashFZ7nf4/edit?usp=sharing)
 
 ## 📂 Projects
 Project | Description
